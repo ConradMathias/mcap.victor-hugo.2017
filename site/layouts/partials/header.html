@@ -21,11 +21,4 @@
             {{ if isset .Params "image" }}background:url('{{$baseurl}}img/{{ printf "%s" $.Params.image }}') 50% 50%;{{else}}background:#EEEEEE;{{end}}"
         >
     </div>
-   {{ if isset .Params "image" }}
-    <script>
-       var ScreenWidth = window.innerWidth;    
-       var ImgBaseUrl = "url('{{$baseurl}}img/"+{{ printf "%s" $.Params.image }}+"')";
-       document.getElementById("topimage").style.backgroundImage = ImgBaseUrl;       
-      
-    </script>
-   {{end}} 
+
