@@ -24,7 +24,7 @@
    {{ if isset .Params "image" }}
     <script>
        var ScreenWidth = window.innerWidth;    
-       var ImgBaseUrl = "url("+{{ printf "%s" $.Params.image }}+")";
+       var ImgBaseUrl = "url('{{$baseurl}}img/"+{{ printf "%s" $.Params.image }}+"')";
        document.getElementById("topimage").style.backgroundImage = ImgBaseUrl;       
       
     </script>
