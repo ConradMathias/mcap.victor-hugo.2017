@@ -12,4 +12,4 @@ image = "webheader.jpg"
 
 Musik gibt dem Leben Farbe und Abwechslung. Im Großraumbüro hilft sie, störenden Lärm zu verdrängen. An schlechten Tagen hebt sie die Stimmung. Ohne Musik fehlt einfach etwas.
 
-<img src="/img/mc-handpan.2018.trans.png" title="Mein neues Logo zum Youtube Kanal (April 2018)" />
+<a target="blank" href="https://www.youtube.com/channel/UCA32-doLKSvjxNldo1wmwkA"><img src="/img/mc-handpan.2018.trans.png" title="Mein neues Logo zum Youtube Kanal (April 2018)" /></a>
