@@ -1,7 +1,7 @@
 +++
 date = "2016-03-06T00:03:21+01:00"
 title = "RAV Vast"
-image = "Zenko.001.jpg"
+image = "RAVVast.001.jpg"
 [menu.main]
     name="RAV Vast"
     parent="Musik"
