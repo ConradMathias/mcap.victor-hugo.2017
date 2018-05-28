@@ -10,13 +10,15 @@ __Üblicherweise speichere ich keinerlei persönliche Daten meiner Besucher,
 es erfolgt auch kein Nutzertracking und keine Verbindung zu Werbediensten.__
 
 ## Grundlegendes
-Diese Datenschutzerklärung soll die Nutzer dieser Website über die Art, den Umfang und
+Diese Datenschutzerklärung soll die Nutzer dieser Website über die Art, den Umfang und 
 den Zweck der Erhebung und Verwendung personenbezogener Daten durch den
 Websitebetreiber informieren.
 
 Der Websitebetreiber ist:
+
   Mathias Conrad, Färberstrasse 9c, 40764 Langenfeld. 
-  Für die Kontaktmöglichkeiten verweisen wir auf unser Impressum
+  
+Für die Kontaktmöglichkeiten verweisen wir auf unser Impressum.
 
 Der Websitebetreiber nimmt Ihren Datenschutz sehr ernst und behandelt Ihre
 personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Vorschriften. Da
@@ -50,10 +52,6 @@ Bei Cookies handelt es sich um kleine Dateien, welche auf Ihrem
 Endgerät gespeichert werden. Ihr Browser greift auf diese Dateien zu. 
 Gängige Browser bieten die Einstellungsoption, Cookies nicht zuzulassen. 
 
-Hinweis: Es ist
-nicht gewährleistet, dass Sie auf alle Funktionen dieser Website ohne Einschränkungen
-zugreifen können, wenn Sie entsprechende Einstellungen vornehmen.
-
 ## Erfassung und Verarbeitung personenbezogener Daten
 Der Websitebetreiber erhebt, nutzt und gibt Ihre personenbezogenen Daten nur dann weiter,
 wenn dies im gesetzlichen Rahmen erlaubt ist oder Sie in die Datenerhebung einwilligen.
@@ -62,9 +60,7 @@ Person zu bestimmen und welche zu Ihnen zurückverfolgt werden können – also
 beispielsweise Ihr Name, Ihre E-Mail-Adresse und Telefonnummer.
 Diese Website können Sie auch besuchen, ohne Angaben zu Ihrer Person zu machen. Zur
 Verbesserung unseres Online-Angebotes speichern wir jedoch (ohne Personenbezug) Ihre
-Zugriffsdaten auf diese Website. Zu diesen Zugriffsdaten gehören z. B. die von Ihnen
-angeforderte Datei oder der Name Ihres Internet-Providers. Durch die Anonymisierung der
-Daten sind Rückschlüsse auf Ihre Person nicht möglich.
+Zugriffsdaten auf diese Website (siehe oben). 
 
 ## Umgang mit Kontaktdaten
 Nehmen Sie mit uns als Websitebetreiber durch die angebotenen Kontaktmöglichkeiten
@@ -73,19 +69,19 @@ Beantwortung Ihrer Anfrage zurückgegriffen werden kann. Ohne Ihre Einwilligung 
 diese Daten nicht an Dritte weitergegeben.
 
 ## Umgang mit Kommentaren und Beiträgen
-Kommentare können auf dieser Website nicht abgegeben werden, es sei denn per direktem Kontakt mit dem Websitebetreiber.
+_Kommentare können auf dieser Website nicht abgegeben werden_, es sei denn per direktem Kontakt mit dem Websitebetreiber.
 
 ## Google Analytics
 Diese Website nutzt keine Reichweitenmessung, daher erfolgt _keine Einbindung von Google Analytics_.
 
 ## Nutzung von Social-Media
-Diese Website verwendet keine Social-Media-Plugins, somit erfolgt keine direkte Datenweitergabe an die Betreiber sozialer Medien. 
+Diese Website verwendet _keine Social-Media-Plugins_, somit erfolgt keine direkte Datenweitergabe an die Betreiber sozialer Medien. 
 Im Seitenfuss dieser Webseiten ist aber die Möglichkeit gegeben, direkt zum den Profilen des 
 Websitebetreibers bei verschiedenen sozialen Medien zu gelangen. Bitte beachten Sie bei Verwendung dieser Links, dass die 
 Betreiber der sozialen Medien persönliche Daten von Ihnen speichern.
 
 ## Newsletter-Abonnement
-Der Websitebetreiber bietet Ihnen keinen Newsletter an.
+Der Websitebetreiber bietet Ihnen _keinen_ Newsletter an.
 
 ## Rechte des Nutzers
 Sie haben als Nutzer das Recht, auf Antrag eine kostenlose Auskunft darüber zu erhalten,
