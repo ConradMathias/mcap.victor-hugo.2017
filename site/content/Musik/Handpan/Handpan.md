@@ -19,4 +19,4 @@ Die Gesamtform des Instrumentes bildet einen sog. Helmholtz-Resonator. Diese For
 
 Es gibt eine Reihe von Herstellern, die aber jeweils nur kleine Stückzahlen in Handarbeit produzieren. Als erstes Instrument dieser Gattung wurde die sog. "[Hang](https://de.wikipedia.org/wiki/Hang_(Musikinstrument) "Hang (Musikinstrument)")" der schweizer Firma [PANArt](http://panart.ch "PANArt Hangbau AG") bekannt.
 
-Mein eigenes Instrument nennt sich "Blue Point SteelHarp" und wurde von der Firma [E.C.S. Steeldrums](http://www.ecs-steeldrums.de/index_48.html) in Dortmund gefertigt.
+Mein eigenes Instrument nennt sich "Blue Point SteelHarp" und wurde von der Firma [E.C.S. Steeldrums](http://www.ecs-steeldrums.de) in Dortmund gefertigt.
