@@ -56,7 +56,7 @@
 							Wenn Sie über dieses Formular Kontakt mit mir aufnehmen, wird mir eine e-Mail gesendet.
 							Ich speichere keine persönlichen Daten außerhalb der e-mail.
 						</div>						
-						<form name="mcap2017-contact" id="contact-form" class="form-horizontal" netlify action="thank-you">
+						<form name="mcap2017-contact" id="contact-form" class="form-horizontal" netlify netlify-honeypot="milk" action="thank-you">
 						  <fieldset>
 							<div id="success-container" class="text-center" style="display:none;">
 							  <p class="lead text-success"><span class="glyphicon glyphicon-ok"></span></p>
@@ -64,6 +64,11 @@
 							</div>
 							<br />
 							<div id="form-container">
+							  <!-- milk input-->
+							  	<div class="hidden">
+								  <input placeholder="don't touch" id="milk" name="milk" />
+                                                                  <label>Dieses Feld nicht benutzen!</label>
+  							  	</div>	
 							  <!-- Name input-->
 								<div class="input-field col s6">
 								  <input placeholder="Ihr Name" id="name" name="name" type="text" class="validate" required minlength="4" aria-required="true">
