@@ -12,38 +12,7 @@
 				var spinArea        = $('#spin-area'); 
 				var formContainer   = $('#form-container');
 				var successContainer= $('#success-container');
-				// Sendefunktion: Formularfelder in JSON-String packen und an SES-ApiGateway senden
-/*				contactForm.submit(function(e){
-					e.preventDefault();
-					var url = contactForm.attr('action');
-					var formData = "{";
-					var fields = $('#contact-form').serializeArray();
-					jQuery.each( fields, function( i, field ) {
-						formData = formData+JSON.stringify(field.name)+':'+JSON.stringify(field.value)+',';
-					});
-					formData = formData.substr(0,formData.length-1)+'}';
-					console.log("formData: "+formData);				
-					spinArea.removeClass( "inactive" ).addClass( "active" ); // Attach the spinner
-					// Send a POST AJAX request to the URL of form's action
-					$.post(
-						url,
-						formData,
-						function(response, textStatus, jqXHR) {
-							humane.log('Message sent',{ addnCls: 'humane-jackedup-success'});
-							successContainer.fadeIn();
-							formContainer.slideUp();
-							spinArea.removeClass( "active" ).addClass( "inactive" ); // Remove the spinner
-						}
-					)
-					.fail(function(jqXHR, textStatus, errorThrown) {
-							// Sending request to the server has failed
-							// We'll show a notification that something went wrong
-							console.log("FAIL: '"+textStatus+"' Error:"+errorThrown+" ("+jqXHR+")");
-							humane.log("Message fail: '"+textStatus+"' ",{ addnCls: 'humane-jackedup-fail'});
-							spinArea.removeClass( "active" ).addClass( "inactive" ); // Remove the spinner
-					});
-				});
-*/			});
+			});
 		});//]]> 
 	</script>
 <!-------------- Contact Form Container ------------------->
