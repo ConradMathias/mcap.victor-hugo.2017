@@ -5,7 +5,7 @@
 # Change the version of Hugo you want to use on Netlify
 # by changing this environment variable.
 [build.environment]
-  HUGO_VERSION = "v0.25.1"
+  HUGO_VERSION = "v0.55.0"
 
 [context.deploy-preview]
   command = "npm run build-preview"
